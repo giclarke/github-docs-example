@@ -74,7 +74,8 @@ A screen shot is when you capture a part of your screen from your laptop, deskto
 
 This is not to be confusted with taking a photo with your phone.
 
-![A photo with your phone](assets/Phone-Photo.gif)
+**DO NOT DO THIS!**
+![A photo with your phone](assets/Phone-Photo.jpg)
 
 
 ## Step 3 - Use GitHub Flavored Markdown Task Lists
