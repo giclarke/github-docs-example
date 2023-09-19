@@ -54,7 +54,7 @@ else:
 - Make note of where the backtick button is located.
 - It usually appears above the Tab key, but it may vary based on your keyboard type.
 
-<img width="200px" src="https://github.com/giclarke/github-docs-example/assets/28026026/1ffcdbf5-5fbb-49c9-9d62-f174836e67a4" />
+<img width="200px" src="(assets/Pipe-Image.gif)" />
 
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
@@ -101,10 +101,7 @@ You can use the following markdown format to create tables:
 ```
 GitHub extends the functionality of Markdown tables to provide more aligment and table cell formatting options. [<sup>[2]</sup>](#references)
 
-![Photo of the pipe character on our keyboard]("assets/Pipe Image.gif")
-
-
-![Pipe Image](https://github.com/giclarke/github-docs-example/assets/28026026/90d1e5fa-3f32-43c2-bafe-56e6e6d37786)
+![Photo of the pipe character on our keyboard](assets/Pipe-Image.gif)
 
 
 ## References
