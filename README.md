@@ -101,7 +101,7 @@ You can use the following markdown format to create tables:
 ```
 GitHub extends the functionality of Markdown tables to provide more aligment and table cell formatting options. [<sup>[2]</sup>](#references)
 
-
+![Photo of the pipe character on our keyboard]("assets/Pipe Image.gif")
 
 
 ![Pipe Image](https://github.com/giclarke/github-docs-example/assets/28026026/90d1e5fa-3f32-43c2-bafe-56e6e6d37786)
