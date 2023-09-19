@@ -51,10 +51,10 @@ else:
     print(f"The factorial of {number} is {result}.")
 
 ```
-- Make note of where the backtick button is located.
+- Make note of where the backtick keyboard key is located.
 - It usually appears above the Tab key, but it may vary based on your keyboard type.
 
-<img width="200px" src="(assets/Pipe-Image.gif)" />
+<img width="200px" src="assets/Backtick-Image.gif" />
 
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
@@ -67,6 +67,15 @@ NameError: name 'undefined_variable' is not defined
 ```
 
 > Here is an example of using a codeblock for an erroe that occurred in bash.
+
+## Step 2 - How to take screen shots
+
+A screen shot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confusted with taking a photo with your phone.
+
+![A photo with your phone](assets/Phone-Photo.gif)
+
 
 ## Step 3 - Use GitHub Flavored Markdown Task Lists
 
@@ -101,6 +110,9 @@ You can use the following markdown format to create tables:
 ```
 GitHub extends the functionality of Markdown tables to provide more aligment and table cell formatting options. [<sup>[2]</sup>](#references)
 
+- Make note of where the pipe keyboard key is located.
+- It usually appears above the return or enter key, but it may vary based on your keyboard type.
+  
 ![Photo of the pipe character on our keyboard](assets/Pipe-Image.gif)
 
 
