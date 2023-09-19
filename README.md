@@ -182,3 +182,4 @@ GitHub extends the functionality of Markdown tables to provide more aligment and
 
 **TO DO**
 - Research Footnote
+- Start at 50min mark
