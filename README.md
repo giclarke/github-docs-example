@@ -79,6 +79,10 @@ This is not to be confusted with taking a photo with your phone.
 
 This is an example of a screenshot from your computer.
 
+**DO THIS INSTEAD**
+![A photo with your computer](assets/Computer-Screenshot.png)
+
+
 Taking screenshots on a Windows computer can be done in several ways, depending on your needs and the version of Windows you're using. Here are some common methods:
 
 1. **Snipping Tool (Windows 7 and later)**:
