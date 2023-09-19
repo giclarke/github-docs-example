@@ -68,6 +68,12 @@ NameError: name 'undefined_variable' is not defined
 
 > Here is an example of using a codeblock for an erroe that occurred in bash.
 
+
+When you can, always provide a codeblock instead of a screenshot.
+If you need to take a screenshot, make sure it is not a photo from your phone.
+
+> There are certain cases where it is okay to take photos with your phone. This is when you are doing something like a keyboard which does not appear on your computer screen. If you render on your computer, it should be a screenshot. 
+
 ## Step 2 - How to take screen shots
 
 A screen shot is when you capture a part of your screen from your laptop, desktop or phone.
@@ -75,11 +81,13 @@ A screen shot is when you capture a part of your screen from your laptop, deskto
 This is not to be confusted with taking a photo with your phone.
 
 **DO NOT DO THIS!**
+
 ![A photo with your phone](assets/Phone-Photo.jpg)
 
 This is an example of a screenshot from your computer.
 
 **DO THIS INSTEAD**
+
 ![A photo with your computer](assets/Computer-Screenshot.png)
 
 
@@ -168,3 +176,9 @@ GitHub extends the functionality of Markdown tables to provide more aligment and
 [GFM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 [GFM - Tables (with extentions)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
+
+
+
+
+**TO DO**
+- Research Footnote
