@@ -77,6 +77,43 @@ This is not to be confusted with taking a photo with your phone.
 **DO NOT DO THIS!**
 ![A photo with your phone](assets/Phone-Photo.jpg)
 
+This is an example of a screenshot from your computer.
+
+Taking screenshots on a Windows computer can be done in several ways, depending on your needs and the version of Windows you're using. Here are some common methods:
+
+1. **Snipping Tool (Windows 7 and later)**:
+   - Snipping Tool is a built-in screenshot utility in Windows. You can find it in the Start menu.
+   - Open Snipping Tool, click "New," and then select the area of the screen you want to capture.
+   - After capturing the screenshot, you can annotate it and save it.
+
+2. **Snip & Sketch (Windows 10 and later)**:
+   - Snip & Sketch is another built-in tool that allows you to take screenshots and annotate them.
+   - Press `Win + Shift + S` to open Snip & Sketch, select the area you want to capture, and then annotate or save the screenshot.
+
+3. **Print Screen (PrtScn or PrtSc)**:
+   - The Print Screen key on your keyboard (usually labeled as PrtScn or PrtSc) captures the entire screen to the clipboard.
+   - Press `PrtScn` to capture the whole screen or `Alt + PrtScn` to capture only the active window.
+   - Paste the screenshot into an image editor (e.g., Paint) and save it.
+
+4. **Snipping Tool (Legacy)**:
+   - If you're using Windows 7, you can use the original Snipping Tool found in the Start menu.
+   - Open it, select the type of snip (e.g., rectangular, freeform), capture the screenshot, and save it.
+
+5. **Windows + Shift + S (Windows 10 and later)**:
+   - Press `Win + Shift + S` to open a snipping toolbar at the top of the screen.
+   - Select the type of snip you want, capture the screenshot, and it will be copied to the clipboard.
+
+6. **Windows + Print Screen (Windows 8 and later)**:
+   - Press `Win + PrtScn` to capture the entire screen and automatically save it as a file in the "Screenshots" folder of your Pictures library.
+
+7. **Snip & Sketch (Tablet Mode)**:
+   - If you're using Windows in tablet mode, swipe in from the right edge of the screen, tap "Screen snip," and then capture the screenshot.
+
+8. **Third-Party Tools**:
+   - There are many third-party screenshot tools available, such as Greenshot, Lightshot, and ShareX, which offer additional features and customization options.
+
+After taking a screenshot, you can usually paste it into an image editor or an application like Paint to edit or save it. Additionally, many of these methods allow you to annotate the screenshot before saving it, which can be useful for highlighting or adding text to the image.
+
 
 ## Step 3 - Use GitHub Flavored Markdown Task Lists
 
