@@ -1,5 +1,6 @@
 # Writing Good Documentation
 
+
 ## Step 1 - Using Codeblocks
 
 Codeblocks in markdown make it *very easy* for technical people to **copy, paste and share** code.
@@ -72,7 +73,7 @@ NameError: name 'undefined_variable' is not defined
 When you can, always provide a codeblock instead of a screenshot.
 If you need to take a screenshot, make sure it is not a photo from your phone.
 
-> There are certain cases where it is okay to take photos with your phone. This is when you are doing something like a keyboard which does not appear on your computer screen. If you render on your computer, it should be a screenshot. 
+> There are certain cases where it is okay to take photos with your phone. This is when you are showing something like a keyboard which does not appear on your computer screen. If it is rendered on your computer, it should be a screenshot. 
 
 ## Step 2 - How to take screen shots
 
@@ -82,13 +83,14 @@ This is not to be confusted with taking a photo with your phone.
 
 **DO NOT DO THIS!**
 
-![A photo with your phone](assets/Phone-Photo.jpg)
+<img width="700px" src="assets/Phone-Photo.jpg" />
+
 
 This is an example of a screenshot from your computer.
 
 **DO THIS INSTEAD**
 
-![A photo with your computer](assets/Computer-Screenshot.png)
+<img width="700px" src="assets/Computer-Screenshot.png" /> 
 
 
 Taking screenshots on a Windows computer can be done in several ways, depending on your needs and the version of Windows you're using. Here are some common methods:
@@ -129,15 +131,15 @@ After taking a screenshot, you can usually paste it into an image editor or an a
 
 ## Step 3 - Use GitHub Flavored Markdown Task Lists
 
-GitHub extends Markdown to have a list where you can check off items.<sup>[1]</sup>
+GitHub extends Markdown to have a list where you can check off items.[^1]
 
 - [x] Finish Step 1
-- [ ] Finish Step 2
+- [x] Finish Step 2
 - [x] Finish Step 3
 
 ## Step 4 - Use Emojis (Optional)
 
-GitHub Flavored Markdown (GFM) supports emoji shortcodes.
+GitHub Flavored Markdown (GFM) supports emoji shortcodes.[^2]
 Here are some examples:
 
 | Name | Shortcode | Emoji |
@@ -158,7 +160,7 @@ You can use the following markdown format to create tables:
 | Thumbs Up | `:thumbsup:` | :thumbsup: |
 
 ```
-GitHub extends the functionality of Markdown tables to provide more aligment and table cell formatting options. [<sup>[2]</sup>](#references)
+GitHub extends the functionality of Markdown tables to provide more aligment and table cell formatting options.[^3] 
 
 - Make note of where the pipe keyboard key is located.
 - It usually appears above the return or enter key, but it may vary based on your keyboard type.
@@ -167,19 +169,15 @@ GitHub extends the functionality of Markdown tables to provide more aligment and
 
 
 ## References
+
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 
 [Basic Writing & Formatting Syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
 
-[GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
 
-[GFM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
+**Footnotes**
+[^1]:[GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
 
-[GFM - Tables (with extentions)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
+[^2]:[GFM - Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
-
-
-
-**TO DO**
-- Research Footnote
-- Start at 50min mark 
+[^3]:[GFM - Tables (with extentions)](https://github.github.com/gfm/#tables-extension-)
