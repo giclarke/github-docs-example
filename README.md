@@ -52,7 +52,7 @@ else:
     print(f"The factorial of {number} is {result}.")
 
 ```
-- Make note of where the backtick keyboard key is located.
+- Observe where the backtick is located on the keyboard.
 - It usually appears above the Tab key, but it may vary based on your keyboard type.
 
 <img width="200px" src="assets/Backtick-Image.gif" />
